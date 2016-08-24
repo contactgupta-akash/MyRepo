@@ -11,6 +11,6 @@ public class Ctest {
 
 	@Test
 	public void test2(){
-		System.out.println("Hi I am test2");
+		System.out.println("Hi change I am test2");
 	}
 }
